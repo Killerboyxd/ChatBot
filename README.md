@@ -15,9 +15,9 @@
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shivanshhu/mychatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 <p align="center">
-<a href="https://telegram.me/ShivanshuDeo"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/TheShivanshu"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
