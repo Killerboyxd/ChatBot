@@ -40,8 +40,8 @@ async def start(client, message):
     if message.chat.type != "private":
         buttons = [
                   [
-                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Champu_Links"),
-                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheShivanshu"),
+                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/do_dil_ek_jaan143"),
+                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ll_SABKA_BHAI_KILLER_ll"),
                   ]       
                   ]
         await message.reply("ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴇʀsᴏɴᴀʟ",
@@ -52,14 +52,14 @@ async def start(client, message):
             InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"")
         ]
         ]
-        video = "https://te.legra.ph/file/d2f2e7a5b90ce15221f91.mp4"
+        video = "https://telegra.ph/file/9584b19633bf5b31faa12.jpg"
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴏᴡɴᴇʀ   [ᴄʜᴀᴍᴘᴜ](https://t.me/ChampuXD)
-┣★ ᴜᴘᴅᴀᴛᴇs [ᴄʜᴀɴɴᴇʟ](https://t.me/theshivanshu)
-┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/Champu_Links)
-┣★ sᴏᴜʀᴄᴇ  [ʀᴇᴘᴏ ](https://github.com/TheChampu/TheChampu)
+┣★ ᴏᴡɴᴇʀ   [sʜɪᴠ](https://t.me/ll_SABKA_BHAI_KILLER_ll)
+┣★ ᴜᴘᴅᴀᴛᴇs [ᴄʜᴀɴɴᴇʟ](https://t.me/do_dil_ek_jaan143)
+┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/RONNY_KI_DUNIYA)
+┣★ sᴏᴜʀᴄᴇ  [ʀᴇᴘᴏ ](@ll_SABKA_BHAI_KILLER_ll)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
