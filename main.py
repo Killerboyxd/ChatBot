@@ -48,8 +48,6 @@ async def start(client, message):
                             reply_markup=buttons)
         
     else:
-        buttons = [[
-            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"")
         ]
         ]
         video = "https://telegra.ph/file/9584b19633bf5b31faa12.jpg"
