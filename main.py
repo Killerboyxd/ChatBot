@@ -48,6 +48,7 @@ async def start(client, message):
                             reply_markup=buttons)
         
     else= 
+         ]
         video = "https://telegra.ph/file/9584b19633bf5b31faa12.jpg"
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
